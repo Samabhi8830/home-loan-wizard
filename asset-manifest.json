@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mortgage-calculator/static/js/main.520e1a07.js",
-    "index.html": "/mortgage-calculator/index.html",
-    "main.520e1a07.js.map": "/mortgage-calculator/static/js/main.520e1a07.js.map"
+    "main.js": "/home-loan-wizard/static/js/main.520e1a07.js",
+    "index.html": "/home-loan-wizard/index.html",
+    "main.520e1a07.js.map": "/home-loan-wizard/static/js/main.520e1a07.js.map"
   },
   "entrypoints": [
     "static/js/main.520e1a07.js"
